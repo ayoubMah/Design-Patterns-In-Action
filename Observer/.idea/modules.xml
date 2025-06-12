@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BestPractice/BestPractice.iml" filepath="$PROJECT_DIR$/BestPractice/BestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstSolution/FirstSolution.iml" filepath="$PROJECT_DIR$/FirstSolution/FirstSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Observer.iml" filepath="$PROJECT_DIR$/.idea/Observer.iml" />
+    </modules>
+  </component>
+</project>
