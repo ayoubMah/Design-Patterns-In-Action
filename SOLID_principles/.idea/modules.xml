@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAgregation/InterfaceAgregation.iml" filepath="$PROJECT_DIR$/InterfaceAgregation/InterfaceAgregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenClose/OpenClose.iml" filepath="$PROJECT_DIR$/OpenClose/OpenClose.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SOLID_principles.iml" filepath="$PROJECT_DIR$/.idea/SOLID_principles.iml" />
